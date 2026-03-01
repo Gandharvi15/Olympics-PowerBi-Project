@@ -79,22 +79,22 @@ Medal Contribution %
 
 The dashboard includes:
 
-Total Medal Summary (KPI Cards)
+🏅 Total Medal Summary (KPI Cards)
 
-Country-wise Medal Distribution
+🌍 Country-wise Medal Distribution
 
-Top Performing Countries
+🥇 Top Performing Countries
 
-Gender Participation Analysis
+🧍 Gender Participation Analysis
 
-Sport-wise Medal Analysis
+🏆 Sport-wise Medal Analysis
 
-Year-wise Olympic Trends
+📅 Year-wise Olympic Trends
 
-Interactive Filters (Country, Year, Sport, Gender)
+🎛 Interactive Filters (Country, Year, Sport, Gender)
 
----------------------------------------------------------------
-Tools & Technologies Used
+
+🛠 Tools & Technologies Used
 
 Power BI
 
@@ -103,7 +103,8 @@ Power Query (Data Cleaning)
 DAX (Data Analysis Expressions)
 
 Microsoft Excel / CSV
---------------------------------------------------------------
+
+GitHub (Version Control & Portfolio)
 
 📈 Key Insights Generated
 
